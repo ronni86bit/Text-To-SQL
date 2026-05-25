@@ -180,4 +180,4 @@ This project demonstrates:
 ## Author
 
 **Rohith Cherukuri**
-AI / ML Engineer | Python Developer | Building intelligent systems that occasionally work on the first try.
+AI / ML Engineer | Python Developer 
